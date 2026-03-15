@@ -8,5 +8,5 @@ alt: image-alt
 # Reminder: Update this link with your own project link
 project-url: 
 
-description: Coming soon.
+description: Coming Soon.
 ---
